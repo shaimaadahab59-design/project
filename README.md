@@ -1,8 +1,7 @@
-OrangeHRM Project 
-This document provides an overview of the manual and automation testing efforts for the OrangeHRM project.
-Team Overview
-​The project is currently being developed and tested by a team of:
-1-Nada Eid Shaban.(login/logout pages)
+#OrangeHRM Project 
+##This document provides an overview of the manual and automation testing efforts for the OrangeHRM project.
+##​The project is currently being developed and tested by a team of:
+##1-Nada Eid Shaban.(login/logout pages)
 2-Shaimaa Ahmed Mohamed.(PIM pages)
 3-Fatema Elzahraa Ibraheem Mahmoud(Admin page)
 4-Nada Ahmed Mohamed Saleh(Apply / Assign Leave pages)
